@@ -1,0 +1,21 @@
+metasploit-framework = https://github.com/rapid7/metasploit-framework atau https://github.com/rapid7/metasploit-framework.git
+metasploit-payloads = https://github.com/rapid7/metasploit-payloads atau https://github.com/rapid7/metasploit-payloads.git
+termux-ohmyzsh = https://github.com/Cabbagec/termux-ohmyzsh atau https://github.com/Cabbagec/termux-ohmyzsh.git
+B4J1N64Nv4 = https://github.com/DarknessCyberTeam/B4J1N64Nv4 atau https://github.com/DarknessCyberTeam/B4J1N64Nv4.git
+B4J1N64Nv5 = https://github.com/DarknessCyberTeam/B4J1N64Nv5 atau https://github.com/DarknessCyberTeam/B4J1N64Nv4.git
+maltego = https://github.com/tampererer/VirusTotal-Maltego atau https://github.com/tampererer/VirusTotal-Maltego.git
+fluxion = https://github.com/FluxionNetwork/fluxion atau https://github.com/FluxionNetwork/fluxion.git
+toolss = https://github.com/AnonHackerr/toolss atau https://github.com/AnonHackerr/toolss.git
+termux-Mpv = https://github.com/Neo-Oli/Termux-Mpv atau https://github.com/Neo-Oli/Termux-Mpv.git
+tool-X = https://github.com/Rajkumrdusad/Tool-X atau https://github.com/Rajkumrdusad/Tool-X
+A-Rat = https://github.com/Xi4u7/A-RAT atau https://github.com/Xi4u7/A-RAT.git
+fbbrute = https://github.com/Senitopeng/fbbrute atau https://github.com/Senitopeng/fbbrute.git
+MBF = https://github.com/piramansx/mbf atau https://github.com/piramansx/mbf.git
+IPGeoLocation = https://github.com/maldevel/IPGeoLocation atau https://github.com/maldevel/IPGeoLocation.git
+framework2 = https://github.com/metasploit/framework2 atau https://github.com/metasploit/framework2.git
+lazymux = https://github.com/Gameye98/Lazymux atau https://github.com/Gameye98/Lazymux.git
+Black-Hydra = https://github.com/Gameye98/Black-Hydra atau https://github.com/Gameye98/Black-Hydra.git
+AstraNmap = https://github.com/Gameye98/AstraNmap atau https://github.com/Gameye98/AstraNmap.git
+AuxScan2.0 = https://github.com/Gameye98/Auxscan2.0 atau https://github.com/Gameye98/Auxscan2.0.git
+spazSMS = https://github.com/Gameye98/SpazSMS atau https://github.com/Gameye98/SpazSMS.git
+==========UDAH DULU CUKK CAPE NGETIK GW;v===========================
